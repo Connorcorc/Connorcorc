@@ -17,9 +17,9 @@ Front-End Software Developer enrolled in <a href="https://turing.edu/">Turing Sc
 
 <div align="center">
   <a href="https://github.com/connorcorc/github-readme-stats">
-    <img alt="Connor's GitHub stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=emilyjmiles&theme=gotham&show_icons=true" />
+    <img alt="Connor's GitHub stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=connorcorc&theme=gotham&show_icons=true" />
   </a>
-  <a href="https://github.com/emilyjmiles/github-readme-stats">
+  <a href="https://github.com/connorcorc/github-readme-stats">
     <img alt="Connor's Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyjmiles&theme=gotham&layout=compact" />
   </a>
 </div>
